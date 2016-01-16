@@ -360,7 +360,6 @@ Copyright (C) 2012  James Roberts
     <string name="profiles_add">Add</string>
     <string name="power_profile_plugged">Profiles while plugged</string>
     <string name="power_profile_plugged_summary">Use profiles also while power is plugged</string>
-    <string name="power_profile">Profiles</string>
     <string name="power_profile_list">Profile list</string>
     <string name="power_profile_summary">Show available profiles</string>
 
